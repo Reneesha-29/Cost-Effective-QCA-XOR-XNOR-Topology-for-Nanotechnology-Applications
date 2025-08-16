@@ -77,4 +77,5 @@ You can view the output of XNOR Gate using CMOS Logic and QCA Design here:
 [CMOS Output](https://github.com/Reneesha-29/Cost-Effective-QCA-XOR-XNOR-Topology-for-Nanotechnology-Applications/blob/b7b38f68bdf150a8fe1b7e91642c6d5a53d33c6d/XNOR_CMOS_Synthesis.png)
 
 The performance analysis parameters of the realised logic gates XOR and XNOR in QCA and CMOS are shown below:
+
 <img width="355" height="290" alt="Image" src="https://github.com/user-attachments/assets/fab9be63-03ec-458d-a699-323de7f65e85" />
